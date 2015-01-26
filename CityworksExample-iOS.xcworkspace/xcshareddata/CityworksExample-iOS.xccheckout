@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>30E19AF6-4BB2-491A-930E-4972ED820413</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CityworksExample-iOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C6FBD8999BE5A97E7AA8E8A37F59C0B1F85311F6</key>
+		<string>https://github.com/kdclaw3/CityworksExample-ObjectiveC.git</string>
+		<key>D574DEDDCF317CEE768225183E5245A492CC1425</key>
+		<string>https://github.com/kdclaw3/CityworksExample-ObjectiveC.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CityworksExample-iOS.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C6FBD8999BE5A97E7AA8E8A37F59C0B1F85311F6</key>
+		<string>../..</string>
+		<key>D574DEDDCF317CEE768225183E5245A492CC1425</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kdclaw3/CityworksExample-ObjectiveC.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D574DEDDCF317CEE768225183E5245A492CC1425</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C6FBD8999BE5A97E7AA8E8A37F59C0B1F85311F6</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D574DEDDCF317CEE768225183E5245A492CC1425</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CityworksExample-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
